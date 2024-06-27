@@ -1,2 +1,2 @@
 # Mushroom-Bucket
-self-contained mushroom growing chamber (arduino automation???)
+closed environment mushroom growing chamber (arduino automation???)
